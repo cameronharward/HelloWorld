@@ -1,6 +1,6 @@
-# Project Title (Update)
+# Hello World
 
-Add a description of your project here.
+Program that prints hello world after some conditions have been met
 
 
 ## Instructions for Build and Use
